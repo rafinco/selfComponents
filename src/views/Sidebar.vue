@@ -61,7 +61,7 @@ export default {
 </style>
 <style>
 	.el-menu{
-		border-right: 0;
+		border-right: 0 !important;
 	}
 	.el-menu-item:focus, .el-menu-item:hover{
 		background-color: #000 !important;

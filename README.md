@@ -1,1 +1,1 @@
-https://rafinco.github.io/selfComponents/
+https://rafinco.github.io/selfComponents/dist
